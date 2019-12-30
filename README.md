@@ -27,3 +27,5 @@ But my vision is that in 10 years I will understand and can put to use skills of
 This readme article and this whole gitHub profile should document my journey how I started from ZERO knowledge and where did I end up with all the fails and terrible repositories along the way. 
 
 I hope it will look better in the next 2 years. Let's see.
+
+test
