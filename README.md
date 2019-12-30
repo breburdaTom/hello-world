@@ -22,7 +22,7 @@ Since then I am studying every day for at least an hour. Some days it is even 4 
 
 I chose to stay in the beginning with the WebDevelopment field since as per my opinion is the easiest entry gate to the broader field. And I hope even someone as stupid as me can learn at least this thing.
 
-But my vision is that in 10 years I will understand and can put to use skills of AI systems, automation, data science, [enter your favorite buzz-word]. So if things go well I will not end with JavaScript, hopefully.
+But my vision is that in 10 years I will understand and can put to use skills of AI systems, automation, data science, [enter your favorite buzz-word]. So if things go well I will not end just with JavaScript, hopefully.
 
 This readme article and this whole gitHub profile should document my journey how I started from ZERO knowledge and where did I end up with all the fails and terrible repositories along the way. 
 
