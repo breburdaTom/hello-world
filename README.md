@@ -15,8 +15,8 @@ So the formal education system I was in was not very helpful.
 Then we got to the time 2 years ago I already mentioned - my second attempt. Well, it didn't go to well. I did some short interactive tutorials online. Did not understand much the meaning of anything. ...aaand it somehow faded away.
 
 
-The year is 2019, the month is October, last week of it.
-My friend shares an article with me about how you can learn to code and get employed within few months. On your own. For free. With every resource and time-plan layed out for you. (This one was mainly focused on Web-Development - so the holy trinity of HTML, CSS and Javascript). This got me so hyped up!
+The year is **2019**, the month is October, last week of it.
+My friend shares an article with me about how you can learn to code and get employed within few months. On your own. For free. With every resource and time-plan layed out for you. (This one was mainly focused on **Web-Development** - so the holy trinity of **HTML, CSS and Javascript**). This got me so hyped up!
 
 Since then I am studying every day for at least an hour. Some days it is even 4 hours. It completely opened up the world of computer science and technology to me - from the inside. I mean, I was always interested in computers, but never tried to understand them more than how can I crack this PC game that I didn't pay for.... (...I know).
 
