@@ -1,10 +1,14 @@
 # hello-world
 
+// ~ 2018
+
 Hi,
 
 I am currently in pursuit of learning how to code and slowly discovering the world of programming and programmers.
 
 ...
+
+// Jan 2020
 
   The line above was written almost 2 years ago. I failed horribly. That was probably my second attempt how to get into the world of programming. The first one was I think when I was around 10 years old. But since I was a dumb kid without any proper guidance, one massive 900 page book about HTML (I know HTML is not real programming) written in the most technical language didn't do the job. Neither did some intro to coding on elementary school where after 15 minutes of first lesson everybody started playing https://www.bulanci.cz/ on LAN.
 
