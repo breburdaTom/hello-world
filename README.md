@@ -4,7 +4,7 @@
 
 Hi,
 
-I am currently in pursuit of learning how to code and slowly discovering the world of programming and programmers. // This line was written as the initial readme file of this profile.
+I am currently in pursuit of learning how to code and slowly discovering the world of programming and programmers. 
 
 ...
 
