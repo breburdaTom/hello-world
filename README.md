@@ -1,14 +1,14 @@
 # hello-world
 
-// ~ 2018
+// log entry ~ 2018
 
 Hi,
 
-I am currently in pursuit of learning how to code and slowly discovering the world of programming and programmers.
+I am currently in pursuit of learning how to code and slowly discovering the world of programming and programmers. // This line was written as the initial readme file of this profile.
 
 ...
 
-// Jan 2020
+// log entry Jan 2020
 
   The line above was written almost 2 years ago. I failed horribly. That was probably my second attempt how to get into the world of programming. The first one was I think when I was around 10 years old. But since I was a dumb kid without any proper guidance, one massive 900 page book about HTML (I know HTML is not real programming) written in the most technical language didn't do the job. Neither did some intro to coding on elementary school where after 15 minutes of first lesson everybody started playing https://www.bulanci.cz/ on LAN.
 
@@ -32,4 +32,12 @@ This readme article and this whole gitHub profile should document my journey how
 
 I hope it will look better in the next 2 years. Let's see.
 
+...
 
+// log entry Jun 2021
+
+Ok so in July last year I started working as a Test Automation engineer / QA SW tester. The knowledge gained from the WebDevelopment learning sprint helped me to pass the interview, nice. I am no Web Developer, and currently at work I use a bit of basic Java code, but it's rather a combination of copying old code, adjusting it, and then plenty of other technologies used for SW testing that build up the whole job tasks package. I am lucky as the whole framework was built up by my predecesors, I couldn't create in on my own. But in current state I am able to operate within it on daily basis even when my predecesors already left the team.
+
+What's great is that currently I almost finished a 3 month long online academy about Linux Systems administration - and I love it. I am writing these lines about a month before my certification exam. It's not really hard, but there is a lot of different subtopics and lot of stuff is interconnected and that makes it pretty challenging to learn. I definitely have to do some serious study time before I go to take the exam, phew...
+
+When I started with the academy I merely thought I will only expand my general IT skillset and maybe it could help me in few years, but right now I am really liking it and would like to start working as a Linux Admin if I manage to pass the certification. We will see.
