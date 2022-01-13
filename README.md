@@ -43,3 +43,21 @@ Ok so in July last year I started working as a Test Automation engineer / QA SW 
 What's great is that currently I almost finished a 3 month long online academy about Linux Systems administration - and I love it. I am writing these lines about a month before my certification exam. It's not really hard, but there is a lot of different subtopics and lot of stuff is interconnected and that makes it pretty challenging to learn. I definitely have to do some serious study time before I go to take the exam, phew...
 
 When I started with the academy I merely thought I will only expand my general IT skillset and maybe it could help me in few years, but right now I am really liking it and would like to start working as a Linux Admin if I manage to pass the certification. We will see.
+
+...
+// log entry Jan 2022
+
+Alright...so um, I did not pass the certification for the Linux Admin. Because I never took the exam. Lol. Nevertheless I finished the whole course and I am glad I did, will revisit the learning materials some day if I need to, but life is pretty unexpected.  
+
+I quit my previous job in the big corporate after a year or so there. 
+There was no much further progress for me. I sincerely wanted to start as a junior devops engineer as I planned - but I did end up again as a automation tester / QA engineer in a small-ish private owned SW development company. It happened by a sheer coincidence and as coincidences always are - this one was also the best thing that could happen and I am glad it did.
+
+At first I expected I will be doing the same thing as in the previous job. Basically just write automated test scenarios for a web app. I was ok with it for 2 reasons. First I didn't think I would be able to do anything more. Second I just wanted a change of environment, the search for progress would come surely later.
+
+Fortunatelly, I was wrong. :)
+
+After first few days I realized the company is only starting to build the test automation team and the base framework of tools for test automation. So far, they only had manual testers. Somehow they helped me discover in my inner self, that I actually did obtain more knowhow than I thought and I would be able to help them build up the framework and mentor more junior colleagues.
+
+I took the challenge with a smile on my face and lot of new energy. So to sum up, currently after some team discussions we selected completely different tools than I was used to (core concepts are teh same anyway) and I - with some assistance from other colleagues - am building an internal test automation project from scratch. Pretty cool if you ask me... I haven't thought this would happen not even 3 months ago.
+
+Quite curious what will happen just within the next year. Time will show.
