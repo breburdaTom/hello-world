@@ -45,6 +45,7 @@ What's great is that currently I almost finished a 3 month long online academy a
 When I started with the academy I merely thought I will only expand my general IT skillset and maybe it could help me in few years, but right now I am really liking it and would like to start working as a Linux Admin if I manage to pass the certification. We will see.
 
 ...
+
 // log entry Jan 2022
 
 Alright...so um, I did not pass the certification for the Linux Admin. Because I never took the exam. Lol. Nevertheless I finished the whole course and I am glad I did, will revisit the learning materials some day if I need to, but life is pretty unexpected.  
