@@ -49,7 +49,7 @@ When I started with the academy I merely thought I will only expand my general I
 
 Alright...so um, I did not pass the certification for the Linux Admin. Because I never took the exam. Lol. Nevertheless I finished the whole course and I am glad I did, will revisit the learning materials some day if I need to, but life is pretty unexpected.  
 
-I quit my previous job in the big corporate after a year or so there. 
+I quit my previous job in the big corporate after a year or so there (4 years in total, 1 years was on that first IT job position). 
 There was no much further progress for me. I sincerely wanted to start as a junior devops engineer as I planned - but I did end up again as a automation tester / QA engineer in a small-ish private owned SW development company. It happened by a sheer coincidence and as coincidences always are - this one was also the best thing that could happen and I am glad it did.
 
 At first I expected I will be doing the same thing as in the previous job. Basically just write automated test scenarios for a web app. I was ok with it for 2 reasons. First I didn't think I would be able to do anything more. Second I just wanted a change of environment, the search for progress would come surely later.
