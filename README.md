@@ -19,8 +19,7 @@ So the formal education system I was in was not very helpful.
 Then we got to the time 2 years ago I already mentioned - my second attempt. Well, it didn't go to well. I did some short interactive tutorials online. Did not understand much the meaning of anything. ...aaand it somehow faded away.
 
 
-The year is **2019**, the month is October, last week of it.
-My friend shares an article with me about how you can learn to code and get employed within few months. On your own. For free. With every resource and time-plan layed out for you. (This one was mainly focused on **Web-Development** - so the holy trinity of **HTML, CSS and Javascript**). This got me so hyped up!
+During last week of October **2019**, my friend shares an article with me about how you can learn to code and get employed within few months. On your own. For free. With every resource and time-plan layed out for you. (This one was mainly focused on **Web-Development** - so the holy trinity of **HTML, CSS and Javascript**). This got me so hyped up!
 
 *Back to 2020*
 
