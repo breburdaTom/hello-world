@@ -49,8 +49,8 @@ When I started with the academy I merely thought I will only expand my general I
 
 Alright...so um, I did not pass the certification for the Linux Admin. Because I never took the exam. Lol. Nevertheless I finished the whole course and I am glad I did, will revisit the learning materials some day if I need to, but life is pretty unexpected.  
 
-I quit my previous job in the big corporate after a year or so there (4 years in total, 1 years was on that first IT job position). 
-There was no much further progress for me. I sincerely wanted to start as a junior devops engineer as I planned - but I did end up again as a automation tester / QA engineer in a small-ish private owned SW development company. It happened by a sheer coincidence and as coincidences always are - this one was also the best thing that could happen and I am glad it did.
+I quit my previous job in the big corporate after a year or so there (4 years in total, 1 year was on that first IT job position). 
+There was no much further progress for me. I sincerely wanted to start as a junior devops engineer as I planned - but I did end up again as a automation tester / QA engineer in a small-ish private-owned SW development company. It happened by a sheer coincidence and as coincidences always are - this one was also the best thing that could happen and I am glad it did.
 
 At first I expected I will be doing the same thing as in the previous job. Basically just write automated test scenarios for a web app. I was ok with it for 2 reasons. First I didn't think I would be able to do anything more. Second I just wanted a change of environment, the search for progress would come surely later.
 
@@ -61,3 +61,17 @@ After first few days I realized the company is only starting to build the test a
 I took the challenge with a smile on my face and lot of new energy. So to sum up, currently after some team discussions we selected completely different tools than I was used to (core concepts are teh same anyway) and I - with some assistance from other colleagues - am building an internal test automation project from scratch. Pretty cool if you ask me... I haven't thought this would happen not even 3 months ago.
 
 Quite curious what will happen just within the next year. Time will show.
+
+...
+
+// log entry Nov 2022
+
+Big LOL - I don't work for that small czech SW studio mentioned in previous entry anymore. There was a lot confusion on management level and just overall immaturity of the company. I also realized I need to work in an international and diverse environment, because everybody has much broader scope of general knowledge. It wasn't the case in a small Czech pond. So I moved on.
+
+But I am glad for that short, 8 month experience. I learned a lot. Both hard skills AND soft skills. I learned a bit about myself, too.
+I now work for a larger US based SW company. We make software for data analytics, B2B focued. Current hurdles are transfering all the legacy products into their cloud versions and start selling it as SaaS. 
+
+Of course, my area of focus shifted completely to something else. The skills I gained at my previous jobs helped me a lot to get through the hiring process here, so it's another proof that nothing is useless. However, I feel like a junior associate again. I haven't done any coding since June. Now it starts to look I should be doing something soon, but in Python (ew!). So another language for me to partially learn and never master.
+
+Other than that I am learning about cloud, kubernetes and lot of other stuff. I love it, it's kinda back to that devops direction I wanted a year ago, but not quite. And it's like 10x more complex than anything I was used to. All in all it's very interesting. The pace is slower, I haven't decided if it's good or bad yet. The culture is amazing, I love my colleagues. Seems like this is finally the place where I could stay for longer. But whenever I think so, it never happens. It will be funny writing the next log entry in a few months or so...
+
